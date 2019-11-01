@@ -1,7 +1,7 @@
 git add README.md
-git add apps.js/*
+git add apps.js
 git add models/*
-git add package.json/*
+git add package.json
 git public/*
 git routes/*
 git add montarCommit.sh
