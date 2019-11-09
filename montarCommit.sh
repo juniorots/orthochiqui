@@ -1,5 +1,5 @@
 git add README.md
-git add apps.js
+git add app.js
 git add models/*
 git add package.json
 git add public/*
