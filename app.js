@@ -12,7 +12,7 @@ var methodOverride = require('method-override');
  
  
 // MONGODB ============================================
-mongoose.connect('mongodb://localhost/colaborador');
+mongoose.connect('mongodb://localhost/dados');
 require('./models/colaborador');
 require('./models/paciente');
  
