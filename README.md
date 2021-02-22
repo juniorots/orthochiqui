@@ -1,2 +1,2 @@
 # orthochiqui
-Dentistas [ ORTHO CHIQUI ]
+DENTISTAS [ ORTHO CHIQUI ]
