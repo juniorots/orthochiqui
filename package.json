@@ -12,5 +12,8 @@
     "mongoose": "~3.6.2",
     "morgan": "~1.2.2",
     "node": "^14.4.0"
+  },
+  "scripts":{
+    "start": "node app.js"
   }
 }
