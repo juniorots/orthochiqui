@@ -33,4 +33,4 @@ app.use('/', index);
  
 // LISTEN (iniciando nossa aplicação em node) ==========
 app.listen(8181);
-console.log("Aplicação executada na porta 8181");
+console.log("Aplicação executada na porta 8181.");
