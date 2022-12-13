@@ -15,5 +15,8 @@
   },
   "scripts":{
     "start": "node app.js"
+  },
+  {
+    "stack": "heroku-22"
   }
 }
