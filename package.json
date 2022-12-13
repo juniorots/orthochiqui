@@ -4,6 +4,7 @@
   "description": "Dentistas [ ORTHO CHIQUI ]",
   "main": "server.js",
   "author": "Ortho Chiqui",
+  "stack": "heroku-22",
   "dependencies": {
     "balanced-match": "^1.0.0",
     "body-parser": "~1.5.2",
@@ -15,8 +16,5 @@
   },
   "scripts":{
     "start": "node app.js"
-  },
-  {
-    "stack": "heroku-22"
   }
 }
